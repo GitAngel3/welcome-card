@@ -1,12 +1,12 @@
 import React from "react";
-import "bootstrap/dist/css/bootstrap.min.css"; // Import Bootstrap CSS
-import internalImage from "./images/welcome.jpg"; // Import internal image
+
+import internalImage from "./images/image1.jpg"; // Import internal image
 
 function App() {
   console.log("React app started");
 
   // Name stored in variable
-  const userName = "ALD";
+  const userName = "Angeleena Livingston D";
 
   // Inline CSS for heading
   const headingStyle = {
