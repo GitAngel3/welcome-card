@@ -10,10 +10,11 @@ function App() {
 
   // Inline CSS for heading
   const headingStyle = {
-    color: "blue",
-    textAlign: "center",
-    marginBottom: "15px"
-  };
+  color: "#34c07a",
+  textAlign: "center",
+  marginBottom: "15px",
+  fontFamily: "Times New Roman, serif"
+};
 
   return (
     <div className="container d-flex justify-content-center align-items-center vh-100">
